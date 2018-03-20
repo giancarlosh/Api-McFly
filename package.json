@@ -1,0 +1,25 @@
+{
+  "name": "api-mcfly",
+  "version": "1.0.0",
+  "description": "prueba de codigo",
+  "main": "index.js",
+  "scripts": {
+    "lint": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giancarlosh/Api-McFly.git"
+  },
+  "author": "Fidel Giancarlo Suaña Hilares",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giancarlosh/Api-McFly/issues"
+  },
+  "homepage": "https://github.com/giancarlosh/Api-McFly#readme",
+  "devDependencies": {
+    "standard": "^11.0.1"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
